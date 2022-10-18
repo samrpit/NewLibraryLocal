@@ -4,6 +4,12 @@ Children:
 - Name: TextBox01
   Type: ObjectLibraryItem
   Children:
+  - Class: Reference
+    Type: HasComponent
+    Target: g=7a1f1ec6759d87a193367fea2a73006c
+- Name: ColorPicker1
+  Type: ObjectLibraryItem
+  Children:
   - Name: TextBox01
     Id: g=7a1f1ec6759d87a193367fea2a73006c
     Supertype: TextBox
