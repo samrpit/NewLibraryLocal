@@ -1,10 +1,10 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: TextBox1
+- Name: ColorPicker1
   Type: ObjectLibraryItem
   Children:
-  - Name: TextBox1
+  - Name: ColorPicker1
     Id: g=7a1f1ec6759d87a193367fea2a73006c
     Supertype: TextBox
     ReferenceType: HasComponent
